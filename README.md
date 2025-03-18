@@ -1,4 +1,4 @@
-# WatoshiExecutor
+# Watoshi Executor v1.0
 New Roblox Executor for scripts!
 
 
