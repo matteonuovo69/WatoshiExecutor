@@ -18,6 +18,17 @@ This project provides a script executor for Roblox, designed to allow developers
 
 ---
 
+
+### How to install
+
+- **Download latest release.**
+- **Extract the zip file.**
+- **Open the executor.**
+
+
+---
+
+
 Thanks for checking it out! 🙏
 
 ---
