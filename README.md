@@ -1,6 +1,6 @@
 # WatoshiExecutor
 New Roblox Executor for scripts!
-Certainly! Here's the updated version with emojis and a "Thanks" at the end:
+
 
 ---
 
@@ -22,4 +22,4 @@ Thanks for checking it out! 🙏
 
 ---
 
-Let me know if you need any more changes!
+
